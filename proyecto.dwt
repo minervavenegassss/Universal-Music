@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Ariana Grande</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#pie {
+    height: 80px;
+    width: 100%;
+    float: right;
+}
+	.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+<link href="../proyecto1.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+a:link {
+    color: #AF2837;
+}
+body,td,th {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+a:visited {
+    color: #BD2828;
+}
+a:hover {
+    color: #B42A2C;
+}
+a:active {
+    color: #D57E7F;
+}
+</style>
+</head>
+
+
+<body>
+<div width="1500" id="contenedor">
+  <div width="1500" id="encabezado"><img src="../logo bueno.jpg" width="500" height="70" alt=""/></div>
+  <!-- TemplateBeginEditable name="EditRegion4" -->
+  <table width="1019" border="1" align="center">
+    <tbody>
+      <tr>
+        <td width="249" height="27" align="center"><a href="../home (1).html"><a href="../home (1).html">Home</a></a></td>
+        <td width="255" align="center"><a href="proyecto.dwt">Ariana Grande</a><a href="../proyecto.dwt"></a></td>
+        <td width="251" align="center"><a href="../Olivia Rodrigo.html">Olivia Rodrigo</a></td>
+        <td width="236" align="center"><a href="../Taylor Swift.html">Taylor Swift</a><a href="../proyecto 2.html"></a></td>
+      </tr>
+    </tbody>
+  </table>
+  <!-- TemplateEndEditable -->
+  <div width="1500" id="cuerpo"><!-- TemplateBeginEditable name="EditRegion5" -->
+    <table width="1019" border="1" align="center">
+      <tbody>
+        <tr align="center">
+          <td width="293" height="258"><img src="../cd.png" width="163" height="156" alt=""/></td>
+          <td width="293"><img src="../cd2.png" alt="" width="182" height="145"/></td>
+          <td width="293"><img src="../mariah.png" width="205" height="173" alt=""/></td>
+          <td width="289"><img src="../cd4.png" width="169" height="135" alt=""/></td>
+        </tr>
+        <tr>
+          <td align="center">$238.62 MXN</td>
+          <td align="center">$238.62 MXN</td>
+          <td align="center">$238.62 MXN</td>
+          <td align="center">$238.62 MXN</td>
+        </tr>
+        <tr align="center" valign="middle">
+          <td height="267"><img src="../eternal.png" width="209" height="188" alt=""/></td>
+          <td><img src="../poses.png" width="212" height="173" alt=""/></td>
+          <td><img src="../twin.png" width="179" height="159" alt=""/></td>
+          <td><img src="../cd3.png" width="180" height="171" alt=""/></td>
+        </tr>
+        <tr>
+          <td height="23" align="center">$562.45MXN</td>
+          <td align="center">$562.45MXN</td>
+          <td align="center">$562.45MXN</td>
+          <td align="center">$238.62 MXN</td>
+        </tr>
+      </tbody>
+    </table>
+<!-- TemplateEndEditable --></div></div>
+<div width="1500" id="pie">
+  <div id="redes"><img src="../logo.png" width="150" height="37" alt=""/></div>
+  <div id="derechos"></div>
+  <p>Todos los derechos resvervados Amanda Elian Minerva 2024©</p>
+  <p>&nbsp;</p>
+</div>
+	
+	
+	
+	
+	
+	
+</body>
+</html>
